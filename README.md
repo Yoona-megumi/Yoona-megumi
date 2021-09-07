@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**Yoona-megumi/Yoona-megumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 软件工程 |[网工1934](https://edu.cnblogs.com/campus/gdgy/networkengineering1934-Softwareengineering) |
+| ----------------- |--------------- |
+| 作业要求的链接 | [作业要求](https://edu.cnblogs.com/campus/gdgy/networkengineering1934-Softwareengineering/homework/12136) |
+| 作业目标 | 学会使用博客园和Github，写一篇文章进行自我介绍和对软件工程这门课程提出五个问题 |
+##自我介绍
+大家好，我是来自广东工业大学19级计算机学院网络工程4班的欧柱轩，平时喜欢打游戏、看小说、看动漫，户外运动也是比较喜欢的（虽然运动神经不是特别好）。我当前的目标是后台程序开发，已经学习了一部分知识，也在为之努力奋斗中。希望在未来的时间里能学习更多，拓宽自己的知识面，为日后找工作打下坚实的基础。
+##软工五问
+1、如何将所学的理论知识运用到具体开发中？
+2、如何才算是一个好的软件？
+3、如何进行软件的维护？
+4、怎样规范自己的代码？
+5、如何学好这门课程？
+##想要收获的是
+希望通过学习这门课程来提高自己的代码能力，规范代码格式，培养构建一个完整项目的思维，能成为一名成熟独立的程序猿。
